@@ -1,7 +1,6 @@
 version: '3.1'
-test
+
 services:
-aaa
   wordpress:
     image: wordpress
     restart: always
